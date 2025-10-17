@@ -8,4 +8,3 @@ Reflexión sobre el proceso:
 - ¿Qué desafíos encontrasteis al trabajar en diferentes partes de la página?
     La mayor dificultad fue sincronizarnos para no trabajar con versiones anteriores. En un momento, estábamos trabajando con el css de un html cuyos cambios no sabíamos si iban a influir en su representación visual. Entendimos que detallar el trabajo realizado en cada parte al compañero es crucial.
 - ¿Qué aprendieron sobre la importancia de la separación entre HTML y CSS?
-

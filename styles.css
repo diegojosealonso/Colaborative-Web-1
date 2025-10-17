@@ -1,13 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    color: #18251A;
     margin: 0;
     padding: 0;
-    background-color: #f3f3f3;
+    background-color: #DAD7CD;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #A3B18A;
+    color: #DAD7CD;
     text-align: center;
     padding: 20px 0;
 }
@@ -17,7 +18,7 @@ header h1 {
 }
 
 main {
-    padding: 20px;
+    padding: 70px;
 }
 
 img {
@@ -29,7 +30,7 @@ img {
 }
 
 a {
-    color: #333;
+    color: #3A5A40;
     text-decoration: none;
     background-color: #fff;
     padding: 10px 20px;
@@ -42,8 +43,14 @@ a:hover {
 }
 
 footer {
-    background-color: #333;
+    background-color: #BFC4AC;
     color: #fff;
     text-align: center;
     padding: 10px 0;
+<<<<<<< HEAD
 }
+=======
+}
+
+
+>>>>>>> 23ea021291871f04861f3bba9e75580f1409a6ed
